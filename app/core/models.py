@@ -31,4 +31,3 @@ class User(AbstractBaseUser , PermissionsMixin) :
     USERNAME_FIELD = 'email'
 
 
-# Create your models here.
